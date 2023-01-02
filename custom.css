@@ -1,8 +1,5 @@
 .ld-custom-name {
-  color: #ffffff;
-}
-.ld-custom-name:visited {
-  color: #fcfcfc;
+  color: #ffffff!important;
 }
 
 .ld-custom-button-container {
