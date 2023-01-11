@@ -27,6 +27,11 @@
       "title": "Spotify",
       "url": "https://open.spotify.com/user/kq6q5zad23wselq2156vw0mjb?si=8ca1368e07624f64",
       "icon": "spotify"
+    },
+    {
+      "title": "CV",
+      "url": "https://read.cv/emots",
+      "icon": "file-text"
     }
   ]
 }
